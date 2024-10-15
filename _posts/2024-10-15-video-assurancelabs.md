@@ -1,8 +1,8 @@
 ---
 title: "Video Introduction for Graduate Cyber Security Consultant Role at AssuranceLabs"
 date: 2024-10-15
-categories: [job app]
-tags: [video interview]
+categories: [Job App]
+tags: [Video Interview]
 ---
 
 # Have a look at my 5 minutes intro :)
